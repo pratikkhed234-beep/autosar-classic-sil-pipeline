@@ -5,7 +5,7 @@ echo "======================================================"
 echo " Starting Full AUTOSAR SiL Test Suite Execution"
 echo "======================================================"
 
-# 1. Clean and Rebuild All Binaries
+# 1. Clean and Rebuild All Modules
 make clean
 make all
 
